@@ -10,3 +10,7 @@ You can see how it performs well in tracking instances with uniqe IDs even when 
 
 The model scored 80.3 on MOTA , 77.3 on IDF1 at MOTA17 dataset and performs at 30 FPS!
 
+I am adding some analytical features with UI using streamlit.
+
+The original repo is found [here](https://github.com/ifzhang/ByteTrack)
+
